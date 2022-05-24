@@ -1,6 +1,7 @@
 # Hello! :wave:
 
-> If you're a client I'm working with, feel free to peruse how I build things and see if you like (or don't) like what you see.
+> If you're a client I'm working or have worked with, feel free to peruse or use this code to solve your problem(s).
 
-You might have [seen me before](https://github.com/azerella) and wondered what this organisation is about? Good question! This is where I share parts of my toolkit that I've built over the years with different clients and companies to solve common problems.
+You might have [seen or worked with me before](https://github.com/azerella) and wondered why I created this organisation? Good question, throughout my years as a developer, I have frequently solved the same problem over and over again - a frontend, backend API and a database.
 
+The code you see in this organisation is a collection of **opinionated and ownable** off the shelf solutions for said problem.
